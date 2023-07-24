@@ -1,3 +1,3 @@
 # RRTD
 
-RRTD: A Dataset for Railway Defect Detection
+RRTD: A Dataset for Rail Defect Detection
